@@ -1,0 +1,6 @@
+---
+ - name: this is a test
+	hosts: all
+	gather_facts: all
+	tasks:
+		- name: 
